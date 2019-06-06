@@ -1,4 +1,4 @@
-# Wolpertinger Vue.js frontend
+# <img src="app/public/wolpertinger.png" width="100"/> Wolpertinger Vue.js frontend
 
 ### Install dependencies and build project
 in `wolpertinger-vue/app`:
