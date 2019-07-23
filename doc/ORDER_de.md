@@ -12,7 +12,7 @@ Die Bilder, die man rechts sieht, können auf die grauen Kreise auf dem Shirt ge
 
 <img src="dragging.png" width="500"/>
 
-Sobald das Shirt vollständig ist, kannst du das Shirt mit deinem Namen und dem dir übergebenen Token bestellen.
+Sobald das Shirt vollständig ausgefüllt ist (alle grauen Kreise besetzt mit Bildern), kannst du das Shirt mit deinem Namen und dem dir übergebenen Token bestellen.
 
 Es erscheint eine Erfolgsmeldung, dass das Shirt erfolgreich bestellt wurde.
 
